@@ -13,7 +13,7 @@
 
 <!-- OSINT Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/glaz-boga-telegram/glaz-boga-podpiska/main/images/osint-banner.png" alt="OSINT Analysis Visualization" width="100%">
+  <img src="https://raw.githubusercontent.com/glaz-boga-telegram/glaz-boga-podpiska/main/images.png" alt="OSINT Analysis Visualization" width="100%">
 </div>
 
 # 🔍 Шерлок бот: инструмент для профессионального анализа данных
